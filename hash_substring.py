@@ -1,5 +1,10 @@
 # python3
 #hash_substring.py
+#Dmitrijs Astrošaps 221RDB193
+#Pichu == Path
+#Turtwig == Text
+#Fennekin == file
+
 
 def read_input():
     # this function needs to aquire input both from keyboard and file

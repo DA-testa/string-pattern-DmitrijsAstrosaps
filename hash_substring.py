@@ -28,7 +28,7 @@ def print_occurrences(output):
     # this function should control output, it doesn't need any return
     print(' '.join(map(str, output)))
 
-def get_occurrences(pattern, text):
+def get_occurrences(Pichu, Turtwig):
     # this function should find the occurances using Rabin Karp alghoritm 
     Raichu = 0
     Torterra = 0
